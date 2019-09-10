@@ -6,11 +6,11 @@ In this course you will practice training deep neural network to solve severals 
 - [TensorFlow tutorial](https://www.tensorflow.org/tutorials)
 
 ## When to hand in
-The assignments are due at 11:59pm. The due dates for all assignments are on the [syllabus page](https://github.com/NCTU-VRDL/CS_IOC5008#syllabus).
+The homeworks are due at 11:59pm. The due dates for all homeworks are on the [syllabus page](https://github.com/NCTU-VRDL/CS_IOC5008#syllabus).
 ## Late Policy
 We will deduct a late penalty of 20% per additional late day.
 ## Where to hand in
-Most of HW need you to attend Kaggle competition, make sure you make the submission before deadling. And please mail your report to TA Jimmy at d08922002@ntu.edu.tw with format ```<STUDENT-ID>_HW<NUMBER>```, e.g. ```0656001_HW2```. Your HW should include
+Most of homeworks need you to attend a private Kaggle competition, make your submission before deadline. And please also mail your reports to TA Jimmy at d08922002@ntu.edu.tw with format ```<STUDENT-ID>_HW<NUMBER>```, e.g. ```0656001_HW2```. Your HW should include
 - Reports (in PDF)
   - Introduction
   - Methodology
