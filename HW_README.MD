@@ -1,5 +1,5 @@
 # Homework README
-In this course you will practice training deep neural network to solve severals computer vision problems, e.g. Image classification, Instance segmentation. You can choose the deep learning framework which you are familiar with. If you are a newbie to deep learning framework, we recommned learning Pytorch. We highly encourage students who are not familiar with Python or Pytorch/Keras/TensorFlow to complete the following tutorials.
+In this course you will practice training deep neural network to solve severals computer vision problems, e.g. Image classification, Instance segmentation. You can choose the deep learning framework which you are familiar with. If you are a newbie to deep learning framework, we recommned learning Pytorch. We highly encourage students who are not familiar with Python or Pytorch/Keras/TensorFlow to complete the following tutorials first.
 - [Python/Numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 - [Pytorch tutorial](https://pytorch.org/tutorials/)
 - [Keras tutorial](https://elitedatascience.com/keras-tutorial-deep-learning-in-python)
