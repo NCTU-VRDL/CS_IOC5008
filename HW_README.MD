@@ -10,13 +10,13 @@ The assignments are due at 11:59pm. The due dates for all assignments are on the
 ## Late Policy
 We will deduct a late penalty of 20% per additional late day.
 ## Where to hand in
-Please mail to TA Jimmy at d08922002@ntu.edu.tw with format: ```<STUDENT-ID>_HW<NUMBER>```, e.g. ```0656001_HW2```. Your HW should include
+Most of HW need you to attend Kaggle competition, make sure you make the submission before deadling. And please mail your report to TA Jimmy at d08922002@ntu.edu.tw with format ```<STUDENT-ID>_HW<NUMBER>```, e.g. ```0656001_HW2```. Your HW should include
 - Reports (in PDF)
   - Introduction
   - Methodology
   - Findings or Summary
-- Predictions or Resutls (Please see the README in each HW folder for detail requirement)
+- Submission files or Resutls (Please see the README in each HW folder for detail)
 ## Grading Policy
-- Model performance (70%): You can get 50% by scoring over baseline (in learderbaord) for each HW. Rank top 3 in leaderboard can get extra point on your final score
+- Model performance (70%): You can get 50% by scoring over baseline (in Kaggle learderbaord) for each HW. Rank top 3 in leaderboard can get extra point on your final score
 - Reports (20%): Well-document the data, methodology or any findings in your HW
 - Code readability (10%): Python code style should follow [PEP8](https://realpython.com/python-pep8/) for readability
