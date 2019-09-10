@@ -5,7 +5,7 @@ Visual recognition aims to enable computers to see, understand, and interpret th
 ## Office Hours
 Thursday 3:00 pm ~ 4:00 pm at EC118
 
-Please contact instructor Yen-Yu Lin at lin@cs.nctu.edu.tw or contact TA Jimmy Yang at d08922002@ntu.edu.tw 
+Please contact instructor Yen-Yu Lin at lin@cs.nctu.edu.tw or TA Jimmy Yang at d08922002@ntu.edu.tw 
 ## Syllabus
 | Week | Date     |Topic                                                                                      | Course Material                                                                                               |  Remarks   |
 | ---- | -------- | ------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------------  | ------ |    
