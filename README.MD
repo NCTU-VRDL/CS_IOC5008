@@ -4,8 +4,10 @@
 Visual recognition aims to enable computers to see, understand, and interpret the world like human visual systems. Deep learning technologies are at the core of the current machine vision revolution. Large-scale annotated data and affordable GPU hardware jointly allow the training of deep learning models with hundreds of layers and millions of parameters, which greatly improve the performance of various machine vision applications and even initiate new vision applications.
 ## Office Hours
 Thursday 3:00 pm ~ 4:00 pm at EC118
-
 Please contact instructor Yen-Yu Lin at lin@cs.nctu.edu.tw or TA Jimmy Yang at d08922002@ntu.edu.tw 
+## Grading Policy
+- 4 homework assignments: 72%
+- Final project: 28%
 ## Syllabus
 | Week | Date     |Topic                                                                                      | Course Material                                                                                               |  Remarks   |
 | ---- | -------- | ------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------------  | ------ |    
