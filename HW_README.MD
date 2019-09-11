@@ -16,13 +16,14 @@ Also mail your reports to TA Jimmy before deadline at d08922002@ntu.edu.tw with 
   - Introduction
   - Methodology
   - Findings or Summary
+  - GitHub repo
 - Submission files or Results (Please see the README in each HW folder for details)
-## Grading Policy
-- Model performance (70%): You can get 56% (70%x0.8) by scoring over the baseline (in Kaggle learderbaord) for each HW. Rank top 3 in leaderboard can get extra point on your final score
+## Homework Grading Policy
+- Model performance (70%): You can get at least 56% (70%x0.8) by scoring over the baseline (in Kaggle learderbaord) for each HW. Rank top 3 in leaderboard can get bonus on your final score
+- Coding (10%): Python code style should follow [PEP8](https://realpython.com/python-pep8/) for readability and your results should be reproducible
 - Reports (20%): Well-document the data summary, methodology or any findings in your HW
-- Code readability (10%): Python code style should follow [PEP8](https://realpython.com/python-pep8/) for readability and your results should be reproducible
 ## GPU Resource
-You may need GPU to accelerate the training of deep nenural network. We provide several free GPU resource for you, some of resource need registration and limited by usage.
+You may need GPU to accelerate the training of deep nenural network. We provide several free GPU resources for you, some of resources need registration and limited by usage.
 - [Google Colab](https://colab.research.google.com/notebooks/gpu.ipynb): Free GPU usage for continous 24 hours
 - [FloydHub](https://www.floydhub.com/): Registration for free GPU trials
 - [Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/linux/)): Registration for free GPU trials
