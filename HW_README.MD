@@ -20,8 +20,8 @@ Also mail your reports (compress to .rar or .zip) to TA Jimmy before deadline at
 - Submission files or Results (Please see the README in each HW folder for details)
 ## Homework Grading Policy
 - Model performance (70%): You can get at least 56% (70%x0.8) by scoring over the baseline (in Kaggle learderbaord) for each HW. Rank top 3 in leaderboard can get bonus on your final score
-- Coding (10%): Python code style should follow [PEP8](https://realpython.com/python-pep8/) for readability and your results should be reproducible
-- Reports (20%): Well-document the data summary, methodology or any findings in your HW
+- Coding (10%): Python coding style should follow [PEP8](https://realpython.com/python-pep8/) for readability and your results should be reproducible by keeping your model weights and code.
+- Reports (20%): Well-document the data summary, methodology or any findings in this HW
 ## GPU Resources
 You may need GPU to accelerate the training of deep nenural network. We provide several free GPU resources for you, some of resources need registration and limited by usage.
 - [Google Colab](https://colab.research.google.com/notebooks/gpu.ipynb): Free GPU usage for continous 24 hours
