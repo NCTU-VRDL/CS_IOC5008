@@ -13,7 +13,7 @@ TBD
 - Rank top3 on the leaderboard will be invited to make a presentation to share your methodology and get a bonus on your final score!
 
 ### Reports submission
-- **MAIL YOUR REPORTS and SUBMISSION FILE to TA at d08922002@ntu.edu.tw**
+- **MAIL YOUR REPORTS to TA at d08922002@ntu.edu.tw**
 - Mail with subject ```CS_IOC5008_<STUDENT ID>_HW1```
 - Your reports (in PDF format) should include
   - GitHub/GitLab repository link
