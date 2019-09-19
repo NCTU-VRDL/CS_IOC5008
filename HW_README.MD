@@ -21,7 +21,7 @@ Your HW should include
   - Findings or Summary
 - Submission files or Results (Please see the README in each HW folder for details)
 ## Homework Grading Policy
-- Model performance (70%): You can get at least 56% (70%x0.8) by scoring over the baseline (in Kaggle learderbaord) for each HW. Rank top 3 on leaderboard will be invited to make presentation to share your methodology and get bonus on your final score
+- Model performance (70%): You can get at least 56% (70%x0.8) by scoring over the baseline (in Kaggle learderbaord) for each HW. Rank top 3 on leaderboard will be invited to make a presentation to share your methodology and get bonus on your final score
 - Coding (10%): Python coding style should follow [PEP8](https://realpython.com/python-pep8/) for readability and your results should be reproducible.
 - Reports (20%): Well-document the data summary, methodology or any findings in this HW
 ## GPU Resources
