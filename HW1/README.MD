@@ -3,7 +3,7 @@
 ### Goals
 Train your convolution neural network to classify the nataural scene images into correct class
 
-### kaggle competition url (what's [Kaggle](https://www.quora.com/What-is-Kaggle-and-how-exactly-should-I-use-it)?)
+### Kaggle competition url (what's [Kaggle](https://www.quora.com/What-is-Kaggle-and-how-exactly-should-I-use-it)?)
 TBD
 
 ### Description
