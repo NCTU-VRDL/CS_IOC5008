@@ -7,7 +7,7 @@ Thursday 3:00 pm ~ 4:00 pm at EC118
 
 Please contact instructor Yen-Yu Lin at lin@cs.nctu.edu.tw or TA Jimmy Yang at d08922002@ntu.edu.tw 
 ## Grading Policy
-- 4 homework assignments: 72%
+- 4 homework assignments: 72%, see [HW READEME](https://github.com/NCTU-VRDL/CS_IOC5008/blob/master/HW_README.MD)
 - Final project: 28%
 ## Syllabus
 | Week | Date     |Topic                                                                                      | Remarks                                  |
