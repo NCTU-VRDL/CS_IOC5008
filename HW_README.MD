@@ -12,7 +12,7 @@ We will deduct a late penalty of 20% per additional late day.
 ## Where to hand in
 Most of homeworks need you attend a private Kaggle competition, you will have to make your submission before deadline. 
 
-Also mail your reports (compress to .rar or .zip) to TA Jimmy before deadline at d08922002@ntu.edu.tw with format ```CS_IOC5008_<STUDENT-ID>_HW<NUMBER>```, e.g. ```CS_IOC5008_0656001_HW2```.
+Also mail your reports to TA Jimmy before deadline at d08922002@ntu.edu.tw with format ```CS_IOC5008_<STUDENT-ID>_HW<NUMBER>```, e.g. ```CS_IOC5008_0656001_HW2```.
 
 Your HW should include
 - Reports (in PDF)
