@@ -6,12 +6,13 @@ In this course you will practice training deep neural network to solve severals 
 - [TensorFlow tutorial](https://www.tensorflow.org/tutorials)
 
 ## When to hand in
-The homeworks are due at 11:59pm. The due dates for all homeworks are on the [syllabus page](https://github.com/NCTU-VRDL/CS_IOC5008#syllabus).
+The homeworks are due at 11:59pm. The due dates for each homeworks are on the [syllabus page](https://github.com/NCTU-VRDL/CS_IOC5008#syllabus).
 ## Late Policy
 We will deduct a late penalty of 20% per additional late day.
 ## Where to hand in
 Most of homeworks need you attend a private Kaggle competition, you will have to make your submission before deadline. 
-Also mail your reports (compress to .rar or .zip) to TA Jimmy before deadline at d08922002@ntu.edu.tw with format ```<STUDENT-ID>_HW<NUMBER>```, e.g. ```0656001_HW2```.
+
+Also mail your reports (compress to .rar or .zip) to TA Jimmy before deadline at d08922002@ntu.edu.tw with format ```CS_IOC5008_<STUDENT-ID>_HW<NUMBER>```, e.g. ```CS_IOC5008_0656001_HW2```.
 
 Your HW should include
 - Reports (in PDF)
@@ -19,9 +20,9 @@ Your HW should include
   - Introduction
   - Methodology
   - Findings or Summary
-- Submission files or Results (Please see the README in each HW folder for details)
+- Results **(Please see the README in each HW folder for details)**
 ## Homework Grading Policy
-- Model performance (70%): You can get at least 56% (70%x0.8) by scoring over the baseline (in Kaggle learderbaord) for each HW. Rank top 3 on leaderboard will be invited to make a presentation to share your methodology and get bonus on your final score
+- Model performance (70%): You can get at least 56% (70%x0.8) by scoring over the baseline (on Kaggle learderbaord) for each HW. Rank top 3 on leaderboard will be invited to make a presentation to share your methodology and get bonus on your final score
 - Coding (10%): Python coding style should follow [PEP8](https://realpython.com/python-pep8/) for readability and your results should be reproducible.
 - Reports (20%): Well-document the data summary, methodology or any findings in this HW
 ## GPU Resources
