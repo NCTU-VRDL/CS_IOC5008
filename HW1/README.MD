@@ -18,6 +18,6 @@ TBD
 - Your reports (in PDF format) should include
   - GitHub/GitLab repository link
   - Introduction
-  - Methodology
+  - Methodology (Data pre-process, Model architeture, Hyperparameters,...)
   - Findings or Summary
 
