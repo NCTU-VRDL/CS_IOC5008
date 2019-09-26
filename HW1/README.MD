@@ -4,7 +4,7 @@
 Train your convolution neural network to classify the nataural scene images into correct class
 
 ### Kaggle competition url (what's [Kaggle](https://www.quora.com/What-is-Kaggle-and-how-exactly-should-I-use-it)?)
-TBD
+https://www.kaggle.com/t/2fdf8c614314491f864af265534653c0
 
 ### Description
 - Please join this competition and use your STUDENT ID as team name. e.g., 0656001
