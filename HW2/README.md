@@ -5,7 +5,7 @@ Train your generative adversiral network to generat the celebrity face images as
 
 ### Description
 - Download the dataset from code provide in [homework2.ipynb](https://github.com/NCTU-VRDL/CS_IOC5008/blob/master/HW2/homework2.ipynb)
-- After trained your GAN, generated **500 images** (each image contains 3x3 grid of images) and save it by the "output_fig" function below, **Please note that the width, height of your image should inside from [28, 112]**
+- After trained your GAN, generated **500 images** (each image contains 3x3 grid of images) and save it by the "output_fig" function below, **Please note that the width, height of your image should be within the range [28, 112]**
 ```python
 def output_fig(images_array, file_name="./results"):
     # the shape of your images_array should be (9, width, height, 3),  28<= width, height <= 112 
