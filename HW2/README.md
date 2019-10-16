@@ -8,7 +8,7 @@ Train your generative adversiral network to generat the celebrity face images as
 - After trained your GAN, generated **500 images** (each image contains 3x3 grid of images) and save it by the "output_fig" function below, **Please note that the width, height of your image should be within the range [28, 112]**
 ```python
 def output_fig(images_array, file_name="./results"):
-    # the shape of your images_array should be (9, width, height, 3),  28<= width, height <= 112 
+    # the shape of your images_array should be (9, width, height, 3),  28 <= width, height <= 112 
     plt.figure(figsize=(6, 6), dpi=100)
     plt.imshow(helper.images_square_grid(images_array))
     plt.axis("off")
