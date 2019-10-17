@@ -18,7 +18,7 @@ def output_fig(images_array, file_name="./results"):
 - Rank top3  will be invited to make a presentation to share your methodology and get a bonus on final score!
 
 ### Reports & Results submission
-- Submit your results of images (by function we provide) andyour reports to this [google drive](https://drive.google.com/drive/u/3/folders/128HvF7a9WhxqBMo5EV70PDcLZy_4AvRr) inside the folder of your student ID
+- Submit your results of images (by function we provide) and your reports to this [google drive](https://drive.google.com/drive/u/3/folders/128HvF7a9WhxqBMo5EV70PDcLZy_4AvRr) inside the folder of your student ID
 - Your reports (in PDF format) should include
   - GitHub/GitLab repository link
   - Introduction
