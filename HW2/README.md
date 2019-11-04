@@ -1,5 +1,7 @@
 ## HW2: Celebrity face images generation
 
+### [Slides](https://docs.google.com/presentation/d/1_J_R4PSI0KtyGWucHfL3uIfsU1D-xdb2BmHhhIspHDE/edit)
+
 ### Goals
 Train your generative adversiral network to generat the celebrity face images as real as possible
 
