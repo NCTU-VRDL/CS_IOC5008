@@ -3,6 +3,8 @@
 ### [Slides](https://docs.google.com/presentation/d/1T_Idlxsx5N4W1DMVzkFz_dji0JbKl5l472PKKv5LB8w/edit)
 ### Goals
 Train your convolution neural network to detect the Street View House Numbers
+### Inference benchmark example
+https://colab.research.google.com/drive/1cDCUJWmneNPAVG3VZaOIsv0ntHIogchd
 
 ### Google Drive url
 https://drive.google.com/open?id=1tf2M4gUE2kdETYrrjFWE0M_8MBpMMSWa
