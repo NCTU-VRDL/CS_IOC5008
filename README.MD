@@ -23,9 +23,9 @@ Please contact instructor Yen-Yu Lin at lin@cs.nctu.edu.tw or TA Jimmy Yang at d
 |   9  |  11/07   | Semantic Segmentation                                                                     | **HW2 due, HW3 announce**                                         |    
 |   10 |  11/14   | Image Super-resolution                                                                    |                                          |    
 |   11 |  11/21   | Image Matching and Alignment                                                              |  |    
-|   12 |  11/28   | Action and Gesture Recognition                                                            |**HW3 due**, **Final project announce**                                         |   
-|   13 |  12/05   | 3D Point Classification and Segmentation                                                  |**HW4 announce**                          |   
+|   12 |  11/28   | Action and Gesture Recognition                                                            |**HW3 due**, **Final project announce**, **HW4 announce**                                          |   
+|   13 |  12/05   | 3D Point Classification and Segmentation                                                  |                         |   
 |   14 |  12/12   | Guest Lectures II                                                                         |                                          |   
-|   15 |  12/19   | Image Style Transfer, Video Frame Interpolation and Video Synthesis                       |                                          |   
-|   16 |  12/26   | Final project presentation I                                                              | **HW4 due**                              |   
+|   15 |  12/19   | Image Style Transfer, Video Frame Interpolation and Video Synthesis                       |  **HW4 due**                                        |   
+|   16 |  12/26   | Final project presentation I                                                              |                               |   
 |   17 |  01/02   | Final project presentation II                                                             |                                          |  
