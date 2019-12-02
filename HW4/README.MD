@@ -5,7 +5,7 @@
 Train your convolution neural network to segment the common objects in image
 
 ### Google Drive url
-https://drive.google.com/open?id=1tf2M4gUE2kdETYrrjFWE0M_8MBpMMSWa
+https://drive.google.com/drive/u/3/folders/1kwDlhY3Fz346fA2csCDG0vSDMTP10WvX
 
 ### Description
 - Upload your submission json file in the submission folder, I will inference it and update the results on your filename for **every midnight (23:59)!**
