@@ -1,8 +1,8 @@
 ## HW4: Tiny Pascal Dataset Instance segmentation
 
-### [Slides](https://docs.google.com/presentation/d/1T_Idlxsx5N4W1DMVzkFz_dji0JbKl5l472PKKv5LB8w/edit)
+### [Slides](https://docs.google.com/presentation/d/1U1gx48DTkEAJAOE7ycSCcZVlfBdQ0LLEb5X6QF0jKMs/edit#slide=id.g7a5525b70b_0_115)
 ### Goals
-Train your convolution neural network to segment the objects in image
+Train your convolution neural network to segment the common objects in image
 
 ### Google Drive url
 https://drive.google.com/open?id=1tf2M4gUE2kdETYrrjFWE0M_8MBpMMSWa
